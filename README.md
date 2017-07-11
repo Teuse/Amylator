@@ -26,3 +26,4 @@ __Note__:
 
 * boost
 * Qt
+* Portaudio
