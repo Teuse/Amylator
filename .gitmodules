@@ -1,0 +1,9 @@
+[submodule "libs/NetworkLib"]
+	path = libs/NetworkLib
+	url = https://github.com/Teuse/NetworkLib.git
+[submodule "libs/ZeroconfLib"]
+	path = libs/ZeroconfLib
+	url = https://github.com/Teuse/ZeroconfLib.git
+[submodule "libs/GPIOLib"]
+	path = libs/GPIOLib
+	url = https://github.com/Teuse/GPIOLib.git

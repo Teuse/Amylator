@@ -1,0 +1,29 @@
+<RCC>
+   <qresource prefix="/">
+      <file>qml/main.qml</file>
+      <file>qml/Header.qml</file>
+      <file>qml/Plot.qml</file>
+      <file>qml/Network.qml</file>
+      <file>qml/About.qml</file>
+      <file>qml/Logging.qml</file>
+
+      <file>qml/Schedule/Schedule.qml</file>
+      <file>qml/Schedule/Header.qml</file>
+      <file>qml/Schedule/List.qml</file>
+      <file>qml/Schedule/AddStep.qml</file>
+
+      <file>qml/Definitions/qmldir</file>
+      <file>qml/Definitions/Colors.qml</file>
+
+      <file>qml/Widgets/GarbageButton.qml</file>
+      <file>qml/Widgets/PlusButton.qml</file>
+      <file>qml/Widgets/PlayButton.qml</file>
+      <file>qml/Widgets/StopButton.qml</file>
+      <file>qml/Widgets/PauseButton.qml</file>
+      <file>qml/Widgets/EditButton.qml</file>
+      <file>qml/Widgets/Slider.qml</file>
+      <file>qml/Widgets/HeaderBar.qml</file>
+      <file>qml/Widgets/ZoomPad.qml</file>
+      <file>qml/Widgets/ZoomPadButton.qml</file>
+   </qresource>
+</RCC>

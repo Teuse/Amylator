@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/failure.svg</file>
+        <file>images/success.svg</file>
+
+        <file>images/buttons/garbage_normal.png</file>
+        <file>images/buttons/garbage_pressed.png</file>
+        <file>images/buttons/plus_normal.png</file>
+        <file>images/buttons/plus_pressed.png</file>
+        <file>images/buttons/edit_normal.png</file>
+        <file>images/buttons/edit_pressed.png</file>
+
+        <file>images/header/malt.png</file>
+        <file>images/header/reload.png</file>
+        <file>images/header/connection_off.png</file>
+        <file>images/header/connection_on.png</file>
+    </qresource>
+</RCC>
